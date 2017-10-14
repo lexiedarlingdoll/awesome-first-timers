@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+Name: Lexie Darling
+Place: Albany, NY
+Bio: I am a gamer/computer/sci-fi/fantasy/comic nerd with ADHD currently attending my first year of college in the Computer Information Systems degree program. I have two daughters and I am engaged to an amazing man that works as a software engineer for multiple gaming companies.
+Github: [lexiedarlingdoll](https://github.com/lexiedarlingdoll/hacktoberfest)
